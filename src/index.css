@@ -1,0 +1,22 @@
+body {
+  font-family: Roboto, Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+button {
+  text-transform: none !important;
+}
+.btn-cyan {
+  background-color: hsl(171, 66%, 44%);
+}
+.btn-blue {
+  background-color: hsl(233, 100%, 69%);
+}
+.gray-footer {
+  background-color: hsla(220, 18%, 97%, 1);
+}
